@@ -1,0 +1,5 @@
+ultralytics
+opencv-python
+rfdetr 
+inference 
+supervision
