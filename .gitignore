@@ -1,3 +1,7 @@
 .venv/
 *.pt
 *.mov
+*.mp4
+*.csv
+
+Testing/
