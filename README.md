@@ -180,14 +180,11 @@ DBSCAN_MIN_SAMPLES   # Minimum points per cluster
 
 ## 📈 Future Enhancements
 
-- [ ] **Advanced Models**: YOLO11m, RT-DETR for better accuracy
+- [ ] **Advanced Models**: YOLO11m or recent versions, RF-DETR for better accuracy
 - [ ] **Speed Analysis**: Factor in velocity vectors for better risk assessment
 - [ ] **Heatmap Overlays**: Visual intensity maps on actual road layouts
-- [ ] **Perspective Correction**: Real-world distance measurements
 - [ ] **Real-time Dashboard**: FastAPI + WebSockets for live monitoring
 - [ ] **GPS Integration**: Map hotspots to real geographic coordinates
-- [ ] **Multi-camera Fusion**: City-wide network analysis
-- [ ] **Predictive Alerts**: ML-based accident prediction
 
 ---
 
